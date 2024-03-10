@@ -1,1 +1,1 @@
-# Deploy-application-using-AWA-ALB-ingress
+# Deploy-application-using-AWS-ALB-ingress
